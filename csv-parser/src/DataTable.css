@@ -1,0 +1,9 @@
+.content_container{
+    position: relative;
+     display: flex;
+}
+.table_Chart{
+    position: relative;
+    width: 50%;
+    
+}

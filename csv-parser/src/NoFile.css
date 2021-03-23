@@ -1,0 +1,12 @@
+.no_file{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    color: rgb(81,81,81);
+}
+#upload_icon{
+    position: relative;
+    text-align: center;   
+}

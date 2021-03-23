@@ -1,0 +1,23 @@
+.report_Container{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width:100%;
+    padding: 10px 5%;
+}
+.report{
+    position: relative;
+    padding: 10px 10px;
+    font-size: 1.7em;
+    font-weight: 300;
+    border-radius: 5px;
+    background-color: rgba(81, 81, 81, 0.2);
+    box-shadow: 5px 5px 10px black;
+}
+.report div{
+    padding: 5px 0;
+}
+.report span{
+    font-weight: bold;
+}

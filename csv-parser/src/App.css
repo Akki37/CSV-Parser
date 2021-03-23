@@ -1,0 +1,17 @@
+.App{
+ position: relative;
+ width: 100vw;
+ min-width: 1111px;
+}
+#heading_top{
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    font-size: 4em;
+    font-weight: bold;
+    padding: 3px 10px;
+}
+span{
+    font-variant: small-caps ;
+}
